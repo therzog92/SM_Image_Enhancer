@@ -1,4 +1,4 @@
-# 🎮 StepMania Image Files Enhancer
+# 🎮 StepMania Image Enhancer
 
 A powerful tool designed to enhance and optimize image files used in StepMania charts. This tool automatically processes backgrounds, banners, and jacket images while preserving your chart file structure.
 
